@@ -1,0 +1,25 @@
+{
+  "values": [
+    "tutorialmod:sapphire_block",
+    "tutorialmod:raw_sapphire_block",
+    "tutorialmod:sapphire_ore",
+    "tutorialmod:deepslate_sapphire_ore",
+    "tutorialmod:netherrack_sapphire_ore",
+    "tutorialmod:endstone_sapphire_ore",
+
+    "tutorialmod:black_opal_block",
+    "tutorialmod:black_opal_ore",
+    "tutorialmod:deepslate_black_opal_ore",
+    "tutorialmod:netherrack_black_opal_ore",
+    "tutorialmod:endstone_black_opal_ore",
+
+    "tutorialmod:zircon_block",
+    "tutorialmod:zircon_ore",
+    "tutorialmod:deepslate_zircon_ore",
+    "tutorialmod:netherrack_zircon_ore",
+    "tutorialmod:endstone_zircon_ore",
+
+    "tutorialmod:ruby_ore",
+    "tutorialmod:ruby_block"
+  ]
+}
